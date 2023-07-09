@@ -1,4 +1,4 @@
-public class SLLNodeList{
+public class SLLNodeList{//
     
     public SLLNode head;
     public SLLNode currentNode;
